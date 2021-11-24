@@ -28,4 +28,5 @@
     <string name="quote_format">\"%s\"</string>
     <string name="score_format">Current Score: %d</string>
     <string name="testing">Testing</string>
+    <string name="testing2">Testing2</string>
 </resources>
